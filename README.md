@@ -1,3 +1,10 @@
+# Installation for local environment 
+git clone git@github.com:Hulinho/xls-to-chart-and-save-as-png.git
+
+In the project directory, you can run:
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
