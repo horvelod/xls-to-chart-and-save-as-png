@@ -2,6 +2,8 @@
 
 With this React based app, you can create a chart from your xls, xlsx, or csv file, and save the chart as png image
 
+![alt text](https://github.com/horvelod/xls-to-chart-and-save-as-png/blob/master/public/images/previmage1.png?raw=true)
+
 ## Installation for local environment 
 
 git clone git@github.com:Hulinho/xls-to-chart-and-save-as-png.git
