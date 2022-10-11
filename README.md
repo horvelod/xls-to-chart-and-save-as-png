@@ -8,7 +8,7 @@ With this React based app, you can create a chart from your xls, xlsx, or csv fi
 
 ## Installation for local environment 
 
-git clone git@github.com:Hulinho/xls-to-chart-and-save-as-png.git
+git clone git@github.com:horvelod/xls-to-chart-and-save-as-png.git
 
 In the project directory, you can run:
 
